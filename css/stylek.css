@@ -1,0 +1,28 @@
+body{
+background: #000000
+}
+
+#clic{
+margin:auto;
+margin-top:40px;
+width:80%;
+height:206px;
+overflow:hidden;
+border-top:solid 10px #9CAAB0;
+border-bottom:solid 10px #9CAAB0;
+}
+
+#cloc img{
+height:200px;
+border:none;
+}
+
+#cloc{
+cursor:pointer;
+border-spacing:2px;
+}
+
+#cloc td:hover{
+opacity:0.8;
+filter : alpha(opacity=85);
+}
